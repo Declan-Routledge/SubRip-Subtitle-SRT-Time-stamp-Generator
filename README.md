@@ -5,3 +5,5 @@ A python script that allows transcriptions of videos to be time stamped and form
 -Takes a .txt transcription that has intervals seperated by new lines and length of desired time intervals.
 
 -Outputs a time stamped .srt file ready to by encoded into a video as subtitles.
+
+![alt text](https://github.com/[Declan-Routledge]/[SubRip-Subtitle-SRT-Time-stamp-Generator]/blob/[Master]/notepadTranscript.png?raw=true)
