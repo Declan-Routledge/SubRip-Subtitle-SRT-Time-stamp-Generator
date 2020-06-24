@@ -6,7 +6,7 @@ A python script that allows transcriptions of videos to be time stamped and form
 
 -Outputs a time stamped .srt file ready to by encoded into a video as subtitles.
 
-![alt text](https://github.com/[Declan-Routledge]/[SubRip-Subtitle-SRT-Time-stamp-Generator]/blob/[Master]/notepadTranscript.png?raw=true)
+
 
 ![notepadTranscript](https://user-images.githubusercontent.com/67376528/85581319-63f86800-b634-11ea-82c7-0e58037946f6.png)
 
